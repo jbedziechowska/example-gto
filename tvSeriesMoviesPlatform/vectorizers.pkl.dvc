@@ -1,0 +1,4 @@
+outs:
+- md5: a45d57cd429709b91c926524a25f2fac
+  size: 2432557
+  path: vectorizers.pkl

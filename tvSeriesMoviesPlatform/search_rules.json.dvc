@@ -1,0 +1,4 @@
+outs:
+- md5: bc1c926dea2df96af9166b2efa0759eb
+  size: 6709
+  path: search_rules.json
